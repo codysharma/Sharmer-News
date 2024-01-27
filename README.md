@@ -10,7 +10,7 @@ React, React Router, HTML, CSS, JSON API integration
 -Use framer motion for animations  
 -Make responsive to screen size changes: make nav bar into button, display only 1 story for width, etc.  
 
- 
+### Screenshots 
 ![image](https://github.com/codysharma/Sharmer-News/assets/123990673/8474a9bb-0b31-45f9-8faf-656d79a81460)
 
 ![image](https://github.com/codysharma/Sharmer-News/assets/123990673/402fcba4-eb8f-45d7-ad2c-b89ce1b3f21a)
