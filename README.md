@@ -1,12 +1,11 @@
-Sharmer News App:  
-A Single Page Application which navigates using React Router, and displays news stories pulled via APIs and renders them as components.  
+Features:  
 -Pulls several APIs to display individual news stories which appear as modals and link to full website.  
 -Pulls EPL API to display current team standings. Also pulls an API for current NFL game results.  
 -Enter local zip code to display current weather conditions on home page.  
   
 Ideas:  
--use framer motion for animations  
-Make responsive to screen size changes: make nav bar into button, display only 1 story for width, etc.  
+-Use framer motion for animations  
+-Make responsive to screen size changes: make nav bar into button, display only 1 story for width, etc.  
 
  
 ![image](https://github.com/codysharma/Sharmer-News/assets/123990673/8474a9bb-0b31-45f9-8faf-656d79a81460)
