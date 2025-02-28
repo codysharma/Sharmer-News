@@ -23,7 +23,7 @@ function App() {
         check: !prevState.check
       })));
     setCurrentStory(story);
-}
+  }
 
   let routes = (
     
@@ -52,9 +52,6 @@ function App() {
         <main>
           {routes}
         </main>
-        {/* <aside>
-          <LocalWeather />
-        </aside> */}
       </body>
     </div>
   );

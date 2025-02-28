@@ -1,1 +1,4 @@
-window.env = {};
+window.env = {
+  "SPORTS_API_URL": "ee1459df65msh3c7adce9679a3b4p1f10a2jsn9d64263992ba",
+  "WEATHER_API_URL": "c33ae8b0474f40d2bc4175447232011"
+};
